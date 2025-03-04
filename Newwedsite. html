@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EFOOTBALL SALE AND EXCHANGE</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f1f1f1;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #444;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-align: center;
+        }
+        nav a:hover {
+            background-color: #575757;
+        }
+        main {
+            padding: 20px;
+            text-align: center;
+        }
+        .cta-button {
+            background-color: #28a745;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 18px;
+        }
+        .cta-button:hover {
+            background-color: #218838;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>EFOOTBALL SALE AND EXCHANGE</h1>
+        <p>Your ultimate place for buying and selling eFootball accounts!</p>
+    </header>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#how-to-join">How to Join</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <main>
+        <section id="about">
+            <h2>About Us</h2>
+            <p>Welcome to EFOOTBALL SALE AND EXCHANGE! Our Telegram group is dedicated to connecting people who want to buy, sell, and exchange eFootball accounts.</p>
+            <p>Whether you’re looking for a rare account or want to trade with others, our community is the best place to make eFootball deals happen.</p>
+        </section>
+
+        <section id="how-to-join">
+            <h2>How to Join</h2>
+            <p>Joining our group is simple. Just click the button below to join our Telegram group and start trading eFootball accounts!</p>
+            <a href="https://t.me/efootballsalegp" class="cta-button" target="_blank">Join Our Telegram Group</a>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>If you have any questions, feel free to reach out to us through our Telegram or email.</p>
+            <p>For inquiries, contact us at: <a href="[![Netlify Status](https://api.netlify.com/api/v1/badges/43bde040-cb17-4977-94d0-55f0841af697/deploy-status)](https://app.netlify.com/sites/cerulean-panda-402194/deploys)"</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 EFOOTBALL SALE AND EXCHANGE. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
